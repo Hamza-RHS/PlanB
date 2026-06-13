@@ -1,4 +1,4 @@
-# 6. Pop-up Search Feature
+# 4. Pop-up Search Feature
 
 Date: 2026-06-13
 
