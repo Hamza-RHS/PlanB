@@ -1,4 +1,4 @@
-# 4. GPS Location System
+# 2. GPS Location System
 
 Date: 2026-06-13
 
