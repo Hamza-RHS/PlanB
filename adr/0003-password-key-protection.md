@@ -1,4 +1,4 @@
-# 5. Password Key Protection
+# 3. Password Key Protection
 
 Date: 2026-06-13
 
