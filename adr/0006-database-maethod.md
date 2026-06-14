@@ -1,4 +1,4 @@
-# 6. Database maethod
+# 6. Database Method
 
 Date: 2026-06-13
 
